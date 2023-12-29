@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+# title: 吳健雄
 
 # Full name (for SEO)
 first_name: Silvia
