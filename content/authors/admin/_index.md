@@ -1,6 +1,6 @@
 ---
 # Display name
-# title: 吳健雄
+title: 吳健雄
 
 # Full name (for SEO)
 first_name: Silvia
@@ -28,12 +28,12 @@ profiles:
     url: 'https://mail.google.com/mail/?view=cm&fs=1&to=silvia.giammarinaro@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: [https://twitter.com/GetResearchDev](https://twitter.com/sigiammarinaro)
+    url: 'https://twitter.com/sigiammarinaro'
   - icon: brands/linkedin
-    url: [https://www.linkedin.com/](https://www.linkedin.com/in/silvia-giammarinaro)
+    url: 'https://www.linkedin.com/in/silvia-giammarinaro'
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
-    url: uploads/cv.pdf
+    url: uploads/Giammarinaro_Silvia_CV.pdf
     label: Download my resume
 ---
 
