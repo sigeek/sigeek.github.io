@@ -37,4 +37,4 @@ profiles:
     label: Download my resume
 ---
 
-Aspiring data professional with a solid foundation in data analysis and machine learning.
+Hi! I am Silvia, an aspiring data professional with a solid foundation in data analysis and machine learning. I have been working as a data analyst and software engineer for more than 3 years. I am currently based in Berlin and I am originally from Italy. 
