@@ -31,6 +31,8 @@ profiles:
     url: 'https://twitter.com/sigiammarinaro'
   - icon: brands/linkedin
     url: 'https://www.linkedin.com/in/silvia-giammarinaro'
+  - icon: assets/media/icons/medium.svg
+    url: 'https://medium.com/@silvia.giammarinaro/about'
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: academicons/cv
     url: uploads/Giammarinaro_Silvia_CV.pdf
