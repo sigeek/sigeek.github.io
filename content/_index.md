@@ -26,6 +26,6 @@ sections:
           icon: brands/linkedin
           url: https://www.linkedin.com/in/silvia-giammarinaro/
         - text: Read my posts on medium
-          icon: brands/linkedin
+          icon: medium
           url: https://medium.com/@silvia.giammarinaro/about
 ---
