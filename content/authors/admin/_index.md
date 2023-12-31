@@ -25,7 +25,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'https://mail.google.com/mail/?view=cm&fs=1&to=silvia.giammarinaro@gmail.com'
+    url: 'mailto:silvia.giammarinaro@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: 'https://twitter.com/sigiammarinaro'
