@@ -39,4 +39,4 @@ profiles:
 
 👩🏻‍💻 Data professional with 3+ years of experience <br>
 📍 Berlin, Germany <br>
-Skills: Data Analytics, Data Engineering, Machine Learning
+✏️ Skills: Data Analytics, Data Engineering, Machine Learning
