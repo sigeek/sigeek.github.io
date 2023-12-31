@@ -37,6 +37,6 @@ profiles:
     label: Download my resume
 ---
 
-👩🏻‍💻 Data professional with 3+ years of experience
-📍 Berlin, Germany
+👩🏻‍💻 Data professional with 3+ years of experience <br>
+📍 Berlin, Germany <br>
 Skills: Data Analytics, Data Engineering, Machine Learning
