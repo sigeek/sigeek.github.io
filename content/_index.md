@@ -23,9 +23,7 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: Connect with me on LinkedIn
-          icon: brands/linkedin
           url: https://www.linkedin.com/in/silvia-giammarinaro/
         - text: Read my posts on medium
-          icon: medium.svg
           url: https://medium.com/@silvia.giammarinaro
 ---
